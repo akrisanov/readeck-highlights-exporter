@@ -1,4 +1,4 @@
-module github.com/akrisanov/readeck-to-readwise
+module github.com/akrisanov/readeck-highlights-exporter
 
 go 1.24.1
 

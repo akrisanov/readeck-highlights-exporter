@@ -204,3 +204,4 @@ $RECYCLE.BIN/
 
 # App
 .env
+*.csv
